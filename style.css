@@ -13,7 +13,7 @@ body {
 .intro-content img {
   width: 100%;
 }
-.intro-content .more-info-link {
+.intro-content .info-link {
   font-family: fantasy, cursive;
 }
 
@@ -31,7 +31,7 @@ body {
   display: inline-block;
   flex-grow: 1
 }
-.task-input-wrapper {
+.task-input-wrap {
   display: flex;
 }
 ul {
