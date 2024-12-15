@@ -72,8 +72,7 @@
 }
 
 /* Heading */
-.section-title,
-.label-new-task {
+.section-title {
   color: #333;
   font-weight: 700;
   font-size: 15px;
@@ -101,7 +100,7 @@
 }
 
 /* New Task */
-.label-new-task {
+.new-task-title {
   display: block;
   margin: 0 0 20px;
 }
